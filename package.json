@@ -43,7 +43,7 @@
         "chai": "*",
         "mongodb": "*"
     },
-    "readme": "",
+    "readme": "[![Build Status](https://secure.travis-ci.org/Lipathor/simon.png)](http://travis-ci.org/Lipathor/simon)",
     "readmeFilename": "README.md",
     "_id": "simon@0.1.1",
     "_from": "simon"
