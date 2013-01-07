@@ -35,7 +35,9 @@
     "engines": {
         "node": ">= 0.4.0"
     },
-    "dependencies": {},
+    "dependencies": {
+        "mongodb": "*"
+    },
     "devDependencies": {
         "mocha": "*",
         "chai": "*",
