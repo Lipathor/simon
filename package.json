@@ -20,7 +20,7 @@
             "email": "pawel@trewebs.com"
         }
     ],
-    "version": "0.1.1",
+    "version": "0.2.3",
     "repository": {
         "type": "git",
         "url": "https://github.com/Lipathor/simon"
@@ -36,7 +36,8 @@
         "node": ">= 0.4.0"
     },
     "dependencies": {
-        "mongodb": "*"
+        "mongodb": "*",
+	"q":"*"
     },
     "devDependencies": {
         "mocha": "*",
